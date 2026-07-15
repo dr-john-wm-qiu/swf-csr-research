@@ -1,0 +1,21 @@
+# Stata files
+*.log
+*.smcl
+*.dta
+__MACOSX/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# Temporary files
+*.tmp
+*_temp.*
+
+# Old results (keep final)
+data_result/round*/
